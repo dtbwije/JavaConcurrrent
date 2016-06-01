@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-source header.sh
+source $(pwd)/header.sh
 
 echo "test"
 echo $(test_function)
